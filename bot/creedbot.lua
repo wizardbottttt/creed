@@ -239,20 +239,19 @@ function create_config( )
     "all",
     "leave_ban"
     },
-    sudo_users = {118682430},--Sudo users
+    sudo_users = {105019279,152622735,173979569,158002943,tonumber(our_id)},--Sudo users
     disabled_channels = {},
     realm = {},--Realms Id
     moderation = {data = 'data/moderation.json'},
-    about_text = [[Creed bot 2.3
-    
-     Hello my Good friends 
-     
-    ‼️ this bot is made by : @creed_is_dead
-   〰〰〰〰〰〰〰〰
-   ߔࠀ   our admins are : 
-   ߔࠀ   @sorblack_creed
-   ߔࠀ   @amircc_creed
-   ߔࠀ   @aria_creed
+    about_text = [[[P O W E R  B O T  v5 By : @POWERSUDO 
+
+Admins
+@POWERSUDO [Founder]  
+@Blackwolf_admin [Developer]  
+@Somebody_i [Developer]  
+@POWERSUDO [Manager]  
+
+Special Thx To Iman Daneshi And Randoozle
    〰〰〰〰〰〰〰〰
   ♻️ You can send your Ideas and messages to Us By sending them into bots account by this command :
    تمامی درخواست ها و همه ی انتقادات و حرفاتونو با دستور زیر بفرستین به ما
@@ -381,7 +380,7 @@ For Admins :
 
 
 !Creategp "GroupName"
-you can Create group with this comman
+you can Create group with this command
 با این دستور برای ساخت گروه استفاده بکنید
 
 
@@ -490,20 +489,20 @@ to remove an admin from global admins
 برای صلب ادمینی از ادمینای اصلی
 
 
-!plugins - [plugins]
+!plug d [plugins]
 To Disable the plugin
 برای غیر فعال کردن پلاگین توسط سازنده
 
 
-!plugins + [plugins]
+!plug e [plugins]
 To enable a plugins
-برای فعال کردن چلاگین توسط سازنده
+برای فعال کردن پلاگین توسط سازنده
 
-!plugins ?
+!plug r
 To reload al plugins
 رای تازه سازی تمامی پلاگین های فعال
 
-!plugins
+!plug
 Shows the list of all plugins
 لیست تمامی پلاگین هارو نشون میده
 
@@ -514,8 +513,8 @@ To send a message to an account by his/her ID
 
 〰〰〰〰〰〰〰〰〰〰〰
 3. Stats :©
-!stats creedbot (sudoers)✔️
-To see the stats of creed bot
+!stats powerbot (sudoers)✔️
+To see the stats of power bot
 برای دیدن آمار ربات 
 
 !stats
@@ -536,10 +535,7 @@ To tags the every one and sends your message at bottom
 
 〰〰〰〰〰〰〰〰〰
 More plugins  soon ...
-⚠️ We are Creeds ⚠️
-
-our channel : @creedantispam_channel
-کانال ما
+⚠️ Feel The Power with P O W E R  B O T ⚠️
 
 You Can user both "!" & "/" for them
 می توانید از دو شکلک !  و / برای دادن دستورات استفاده کنید
