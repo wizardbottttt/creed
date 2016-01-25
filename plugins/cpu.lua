@@ -4,7 +4,7 @@ function run_sh(msg)
      -- if config.sh_enabled == false then
         -- text = '!sh command is disabled'
      -- else
-        -- if is_sudo(msg) then
+        -- if is_sudo(msg) then/
            -- bash = msg.text:sub(4,-1)
            -- text = run_bash(bash)
         -- else
